@@ -741,18 +741,23 @@ section:nth-of-type(3) #gallery .mix:nth-child(7) .card {
 }
 section:nth-of-type(3) #gallery .mix:nth-child(8) .card {
   background: url("../img/zee-gadgets.png") center center/cover;
+  background-size: 100% 100%;
 }
 section:nth-of-type(3) #gallery .mix:nth-child(9) .card {
   background: url("../img/pureargancosmetics.png") center center/cover;
+  background-size: 100% 100%;
 }
 section:nth-of-type(3) #gallery .mix:nth-child(10) .card {
   background: url("../img/useMyTools.png") center center/cover;
+  background-size: 100% 100%;
 }
 section:nth-of-type(3) #gallery .mix:nth-child(11) .card {
   background: url("../img/thumb-11.html") center center/cover;
+  background-size: 100% 100%;
 }
 section:nth-of-type(3) #gallery .mix:nth-child(12) .card {
   background: url("../img/thumb-12.html") center center/cover;
+  background-size: 100% 100%;
 }
 section:nth-of-type(3) #gallery .mix .card {
   height: 240px;
