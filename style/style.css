@@ -712,11 +712,11 @@ section:nth-of-type(3) #gallery .mix .button:hover {
   color: #fff;
 }
 section:nth-of-type(3) #gallery .mix:nth-child(1) .card {
-  background: url("../img/NewsApp.jpg") center center/cover;
+  background: url("../img/ladnetwork.png") center center/cover;
   background-size: 100% 100%;
 }
 section:nth-of-type(3) #gallery .mix:nth-child(2) .card {
-  background: url("../img/Cocktails.jpg") center center/cover;
+  background: url("../img/mentors.png") center center/cover;
   background-size: 100% 100%;
 }
 section:nth-of-type(3) #gallery .mix:nth-child(3) .card {
@@ -724,7 +724,7 @@ section:nth-of-type(3) #gallery .mix:nth-child(3) .card {
   background-size: 100% 100%;
 }
 section:nth-of-type(3) #gallery .mix:nth-child(4) .card {
-  background: url("../img/ladnetwork.png") center center/cover;
+  background: url("../img/Cocktails.jpg") center center/cover;
   background-size: 100% 100%;
 }
 section:nth-of-type(3) #gallery .mix:nth-child(5) .card {
@@ -732,7 +732,7 @@ section:nth-of-type(3) #gallery .mix:nth-child(5) .card {
   background-size: 100% 100%;
 }
 section:nth-of-type(3) #gallery .mix:nth-child(6) .card {
-  background: url("../img/mentors.png") center center/cover;
+  background: url("../img/NewsApp.jpg") center center/cover;
   background-size: 100% 100%;
 }
 section:nth-of-type(3) #gallery .mix:nth-child(7) .card {
