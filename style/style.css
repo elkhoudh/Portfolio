@@ -539,7 +539,7 @@ section:nth-of-type(2) .skills-wrapper .me {
   height: 200px;
 }
 section:nth-of-type(2) .skills-wrapper .label {
-  margin: 20px 0 15px 0;
+  margin: 20px 0 0 0;
 }
 section:nth-of-type(2) .hexagon i {
   position: absolute;
@@ -703,6 +703,7 @@ section:nth-of-type(3) #gallery .button {
 section:nth-of-type(3) #gallery .mix {
   display: none;
   position: relative;
+  padding: 20px;
 }
 section:nth-of-type(3) #gallery .mix .waypoint {
   background: #fff;
@@ -712,27 +713,27 @@ section:nth-of-type(3) #gallery .mix .button:hover {
   color: #fff;
 }
 section:nth-of-type(3) #gallery .mix:nth-child(1) .card {
-  background: url("../img/ladnetwork.png") center center/cover;
+  background: url("../img/lad.png") center center/cover;
   background-size: 100% 100%;
 }
 section:nth-of-type(3) #gallery .mix:nth-child(2) .card {
-  background: url("../img/mentors.png") center center/cover;
+  background: url("../img/mentors.svg") center center/cover;
   background-size: 100% 100%;
 }
 section:nth-of-type(3) #gallery .mix:nth-child(3) .card {
-  background: url("../img/useMyTools.png") center center/cover;
+  background: url("../img/tools.jpg") center center/cover;
   background-size: 100% 100%;
 }
 section:nth-of-type(3) #gallery .mix:nth-child(4) .card {
-  background: url("../img/Cocktails.jpg") center center/cover;
+  background: url("../img/cocktail.jpg") center center/cover;
   background-size: 100% 100%;
 }
 section:nth-of-type(3) #gallery .mix:nth-child(5) .card {
-  background: url("../img/zee-gadgets.png") center center/cover;
+  background: url("../img/zeegadgets.png") center center/cover;
   background-size: 100% 100%;
 }
 section:nth-of-type(3) #gallery .mix:nth-child(6) .card {
-  background: url("../img/NewsApp.jpg") center center/cover;
+  background: url("../img/news.png") center center/cover;
   background-size: 100% 100%;
 }
 section:nth-of-type(3) #gallery .mix:nth-child(7) .card {
@@ -781,7 +782,6 @@ section .flex-50-gt-sm {
   display: block;
 }
 section:nth-of-type(4) {
-  padding: 130px 0 100px 0;
   text-align: left;
 }
 section:nth-of-type(4) .flex.row-gt-sm,
@@ -1087,7 +1087,6 @@ footer .footnote .highlight {
 
   section {
     line-height: 18pt;
-    padding: 100px 0 130px 0;
   }
   section .container {
     padding: 0 10px;
@@ -1143,7 +1142,6 @@ footer .footnote .highlight {
     height: 300px;
   }
   section:nth-of-type(4) {
-    padding: 130px 0 180px 0;
   }
   section:nth-of-type(4) .label {
     line-height: 22pt;
