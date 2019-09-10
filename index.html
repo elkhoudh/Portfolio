@@ -473,7 +473,12 @@
             data-delay=".5s"
             name="contact"
             netlify
+            netlify-honeypot="bot-field" 
+            data-netlify="true"
           >
+            <p class="hidden">
+              <label>Don’t fill this out if you're human: <input name="bot-field" /></label>
+            </p>
             <input placeholder="Name" type="text" name="name" required />
             <input
               placeholder="Enter email"
