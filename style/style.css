@@ -1282,3 +1282,7 @@ footer .footnote .highlight {
 }
 
 /*# sourceMappingURL=style.css.map */
+
+.hidden {
+  display: none;
+}
